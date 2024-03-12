@@ -40,3 +40,7 @@ p.phone {
     padding-bottom: 5px; 
 }
 
+ul li p {
+    margin-bottom: 10px; /* Adjust the value as needed */
+}
+
