@@ -1,5 +1,5 @@
 body, html {
-    height: 100%;
+    min-height: 100%;
     margin: 0;
     padding: 0;
 }
@@ -38,8 +38,5 @@ p.phone {
     padding-bottom: 5px; 
 }
 
-html, body {
-    min-height: 100%;
-}
 
 
