@@ -38,4 +38,8 @@ p.phone {
     padding-bottom: 5px; 
 }
 
+html, body {
+    min-height: 100%;
+}
+
 
