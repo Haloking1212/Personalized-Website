@@ -1,3 +1,4 @@
+/* resume.css */
 
 body, h1, p, ul, li {
     margin: 0;
@@ -35,6 +36,7 @@ header {
     text-align: left;
     padding: 20px;
 }
+
 p.phone {
     border-bottom: 1px solid black; 
     padding-bottom: 5px; 
@@ -43,4 +45,5 @@ p.phone {
 ul li p {
     margin-bottom: 20px; 
 }
+
 
