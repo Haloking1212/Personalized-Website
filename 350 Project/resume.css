@@ -21,12 +21,12 @@ header {
 
 #aboutBackground {
     padding: 20px;
-    background-color: #fff;
+    background-color: #eccea2;
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
     margin: 20px auto;
     max-width: 800px;
-    border: 10px solid #87c4ec
+    border: 10px solid #144260
 }
 
 #aboutContent {
